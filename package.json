@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "private": true,
+  "homepage": "https://pinoyinvestor.github.io/", 
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@emotion/react": "^11.11.0",
@@ -48,4 +48,5 @@
       "last 1 safari version"
     ]
   }
+  
 }
